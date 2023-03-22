@@ -29,5 +29,5 @@ startx ./startup.sh
 
 # wallpaper configuration
 
-the wallpaper path is set with the ´´´ $WALLPAPER ´´´ variable inside .bashrc
+the wallpaper path is set with the ``` $WALLPAPER ``` variable inside .bashrc
 
